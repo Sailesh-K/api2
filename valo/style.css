@@ -1,0 +1,25 @@
+.trend{
+    text-align: center;
+   /* background-color: black;*/
+    color:white
+}
+
+body{
+    background:linear-gradient(#2d2d2e,#ec3b3b);
+    height: 100vh;
+    margin: 0;
+}
+
+.row{
+    justify-content: center;
+}
+
+.popular{
+    color:black;
+    text-align: center;
+    font-size: 18px;
+}
+.main{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+}
